@@ -122,6 +122,6 @@
   },
   "dependencies": {
     "minimatch": "^3.0.4",
-    "printf": "^0.5.2"
+    "printf": "^0.6.1"
   }
 }
